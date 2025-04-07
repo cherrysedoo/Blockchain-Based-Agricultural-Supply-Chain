@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Q
+!contracts/crop-certification.clar,6/9/6978aa6cd8e5fe94f20e8be2fc0cc1b41add61c4
+P
+ tests/crop-certification.test.ts,5/5/5585466d448d3cb730a020887f8ce2e055bd77dc
+P
+ contracts/farm-verification.clar,5/7/57e9974453be55cd395a37083efb088d9f933c1b
+O
+tests/farm-verification.test.ts,8/e/8e6e7a3592dd9b67d32e45df9115303e1e0e9c46
+Q
+!contracts/logistics-tracking.clar,f/3/f3930f5c982bb1701a78abb96ad5f809961ac190
+P
+ tests/logistics-tracking.test.ts,4/7/47c1af72912559a515370291eba95805bd9b487a
+S
+#contracts/quality-verification.clar,0/f/0f33966a4a4d7d8e923cbc03bfda79d5ba391cc4
+R
+"tests/quality-verification.test.ts,2/f/2fb242a47aec36c9e169f06b34825b7fc6021efa

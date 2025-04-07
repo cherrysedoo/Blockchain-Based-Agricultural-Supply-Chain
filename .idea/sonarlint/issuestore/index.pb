@@ -13,3 +13,7 @@ Q
 !contracts/logistics-tracking.clar,f/3/f3930f5c982bb1701a78abb96ad5f809961ac190
 P
  tests/logistics-tracking.test.ts,4/7/47c1af72912559a515370291eba95805bd9b487a
+S
+#contracts/quality-verification.clar,0/f/0f33966a4a4d7d8e923cbc03bfda79d5ba391cc4
+R
+"tests/quality-verification.test.ts,2/f/2fb242a47aec36c9e169f06b34825b7fc6021efa
